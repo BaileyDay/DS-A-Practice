@@ -1,3 +1,5 @@
+//Given a fixed length array arr of integers, duplicate each occurrence of zero, shifting the remaining elements to the right.
+
 testArray = [1, 0, 2, 3, 0, 4, 5, 0];
 
 var duplicateZeros = function (arr) {
